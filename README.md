@@ -1,12 +1,6 @@
 
-# Election - DAPP Tutorial
-Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
-
-Full Free Video Tutorial:**
-https://youtu.be/3681ZYbDSSk
-
-## 2019 Updated Code
-https://github.com/dappuniversity/election/tree/2019_update
+# Election
+- Minor Project
 
 Follow the steps below to download, install, and run this project.
 
@@ -19,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`https://github.com/kpatel2000/E-voting-Smart-Contract.git`
 
 ## Step 2. Install dependencies
 ```
@@ -43,6 +37,4 @@ See free video tutorial for full explanation of these steps:
 ## Step 6. Run the Front End Application
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
-
-If you get stuck, please reference the free video tutorial.
 
